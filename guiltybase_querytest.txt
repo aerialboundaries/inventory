@@ -1,0 +1,22 @@
+SELECT 
+inv_month,
+inv_model,
+inv_cat,
+business_unit,
+inv_age,
+inv_age as inv_age_mod,
+rate_yen,
+inv_qty,
+inv_amt / 1000 as inv_KMXN,
+inv_amt * rate_yen as inv_MYEN,
+sales_qty as sales_n0_Q
+FROM t_inv 
+left outer join
+t_business_unit
+on inv_cat = prod_category
+left outer join
+t_rate
+on inv_month = rate_month
+left outer join
+t_sales
+on inv_month = sales_month and inv_model = sales_model
