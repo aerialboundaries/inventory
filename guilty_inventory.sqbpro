@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/mtakatani/AnacondaProjects/inventory/guilty_inventory.sqlite3" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="6622"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,14:maint_other_actage"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="t_aging" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="51"/><column index="3" value="51"/><column index="4" value="51"/><column index="5" value="51"/><column index="6" value="51"/><column index="7" value="51"/><column index="8" value="51"/><column index="9" value="51"/><column index="10" value="51"/><column index="11" value="51"/><column index="12" value="59"/><column index="13" value="59"/><column index="14" value="59"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="t_guilty_base" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="147"/><column index="3" value="53"/><column index="4" value="95"/><column index="5" value="54"/><column index="6" value="85"/><column index="7" value="63"/><column index="8" value="52"/><column index="9" value="80"/><column index="10" value="94"/><column index="11" value="77"/><column index="12" value="115"/><column index="13" value="115"/><column index="14" value="77"/><column index="15" value="105"/><column index="16" value="115"/><column index="17" value="77"/><column index="18" value="105"/><column index="19" value="104"/><column index="20" value="77"/><column index="21" value="105"/><column index="22" value="104"/><column index="23" value="77"/><column index="24" value="105"/><column index="25" value="104"/><column index="26" value="77"/><column index="27" value="105"/><column index="28" value="104"/><column index="29" value="77"/><column index="30" value="105"/><column index="31" value="104"/><column index="32" value="77"/><column index="33" value="105"/><column index="34" value="104"/><column index="35" value="77"/><column index="36" value="105"/><column index="37" value="104"/><column index="38" value="77"/><column index="39" value="105"/><column index="40" value="104"/><column index="41" value="85"/><column index="42" value="113"/><column index="43" value="112"/><column index="44" value="85"/><column index="45" value="113"/><column index="46" value="112"/><column index="47" value="85"/><column index="48" value="113"/><column index="49" value="112"/><column index="50" value="103"/><column index="51" value="103"/><column index="52" value="103"/><column index="53" value="103"/><column index="54" value="103"/><column index="55" value="103"/><column index="56" value="103"/><column index="57" value="103"/><column index="58" value="103"/><column index="59" value="103"/><column index="60" value="111"/><column index="61" value="111"/><column index="62" value="111"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="t_guilty_list" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="145"/><column index="3" value="145"/><column index="4" value="97"/><column index="5" value="59"/><column index="6" value="57"/><column index="7" value="81"/><column index="8" value="95"/><column index="9" value="82"/><column index="10" value="116"/><column index="11" value="82"/><column index="12" value="109"/><column index="13" value="82"/><column index="14" value="109"/><column index="15" value="82"/><column index="16" value="109"/><column index="17" value="82"/><column index="18" value="109"/><column index="19" value="82"/><column index="20" value="109"/><column index="21" value="82"/><column index="22" value="109"/><column index="23" value="82"/><column index="24" value="109"/><column index="25" value="82"/><column index="26" value="109"/><column index="27" value="82"/><column index="28" value="109"/><column index="29" value="90"/><column index="30" value="117"/><column index="31" value="90"/><column index="32" value="117"/><column index="33" value="90"/><column index="34" value="117"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="t_inv" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="147"/><column index="3" value="53"/><column index="4" value="52"/><column index="5" value="80"/><column index="6" value="54"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="t_other_actage" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="145"/><column index="3" value="95"/><column index="4" value="121"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="t_other_actual_age" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="76"/><column index="2" value="73"/><column index="3" value="87"/><column index="4" value="121"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="t_other_newage" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="145"/><column index="3" value="88"/><column index="4" value="121"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="v_guilty_MYEN" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="145"/><column index="3" value="95"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="v_guilty_other_YEN" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="145"/><column index="3" value="122"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="v_others" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="145"/><column index="3" value="88"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="t_guilty_base_udate base">SELECT
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/void/AnacondaProjects/inventory/guilty_inventory.sqlite3" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="6622"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,20:maint_guilty_list_newage"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="t_aging" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="51"/><column index="3" value="51"/><column index="4" value="51"/><column index="5" value="51"/><column index="6" value="51"/><column index="7" value="51"/><column index="8" value="51"/><column index="9" value="51"/><column index="10" value="51"/><column index="11" value="51"/><column index="12" value="59"/><column index="13" value="59"/><column index="14" value="59"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="t_digest_actage" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="147"/><column index="3" value="94"/><column index="4" value="114"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="t_digest_newage" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="147"/><column index="3" value="87"/><column index="4" value="114"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="t_guilty_list_actage" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="147"/><column index="3" value="146"/><column index="4" value="95"/><column index="5" value="54"/><column index="6" value="52"/><column index="7" value="80"/><column index="8" value="94"/><column index="9" value="77"/><column index="10" value="115"/><column index="11" value="77"/><column index="12" value="105"/><column index="13" value="77"/><column index="14" value="105"/><column index="15" value="77"/><column index="16" value="105"/><column index="17" value="77"/><column index="18" value="105"/><column index="19" value="77"/><column index="20" value="105"/><column index="21" value="77"/><column index="22" value="105"/><column index="23" value="77"/><column index="24" value="105"/><column index="25" value="77"/><column index="26" value="105"/><column index="27" value="77"/><column index="28" value="105"/><column index="29" value="85"/><column index="30" value="113"/><column index="31" value="85"/><column index="32" value="113"/><column index="33" value="85"/><column index="34" value="113"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="t_guilty_list_newage" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="147"/><column index="3" value="147"/><column index="4" value="95"/><column index="5" value="85"/><column index="6" value="52"/><column index="7" value="80"/><column index="8" value="94"/><column index="9" value="77"/><column index="10" value="105"/><column index="11" value="77"/><column index="12" value="105"/><column index="13" value="77"/><column index="14" value="105"/><column index="15" value="77"/><column index="16" value="105"/><column index="17" value="77"/><column index="18" value="105"/><column index="19" value="77"/><column index="20" value="105"/><column index="21" value="77"/><column index="22" value="105"/><column index="23" value="77"/><column index="24" value="105"/><column index="25" value="77"/><column index="26" value="105"/><column index="27" value="77"/><column index="28" value="105"/><column index="29" value="85"/><column index="30" value="113"/><column index="31" value="85"/><column index="32" value="113"/><column index="33" value="85"/><column index="34" value="113"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="t_guilty_base_udate base">SELECT
 	CASE 
 	when sales_n0_Q &gt; 0 or purchase_n0_Q &gt; 0 then age_n0 
 	when sales_n1_Q &gt; 0 or purchase_n1_Q &gt; 0 then age_n1
@@ -46,44 +46,182 @@ FROM t_guilty_base inner join t_aging on inv_age = age_actual
 	
 		
 
-</sql><sql name="SQL 8">        SELECT 
+</sql><sql name="SQL 8">        SELECT 
+            t_guilty_base.inv_month,
+            t_guilty_base.inv_model,
+			CASE
+				when inv_model_digest is not null then inv_model_digest else t_guilty_base.inv_model
+			END	as inv_model_digest,
+			business_unit,
+            inv_age,
+            inv_qty,
+            inv_KMXN,
+            inv_MYEN,
+            sales_n0_Q,
+            sales_n0_KMXN,
+            sales_n1_Q,
+            sales_n1_KMXN,
+            sales_n2_Q,
+            sales_n2_KMXN,
+            sales_n3_Q,
+            sales_n3_KMXN,
+            sales_n4_Q,
+            sales_n4_KMXN,
+            sales_n5_Q,
+            sales_n5_KMXN,
+            sales_n6_Q,
+            sales_n6_KMXN,
+            sales_n7_Q,
+            sales_n7_KMXN,
+            sales_n8_Q,
+            sales_n8_KMXN,
+            sales_n9_Q,
+            sales_n9_KMXN,
+            sales_n10_Q,
+            sales_n10_KMXN,
+            sales_n11_Q,
+            sales_n11_KMXN,
+            sales_n12_Q,
+            sales_n12_KMXN
+
+        FROM t_guilty_base
+		left OUTER JOIN t_digest_actage on t_guilty_base.inv_model = t_digest_actage.inv_model and t_guilty_base.inv_month = t_digest_actage.inv_month
+</sql><sql name="guilty_digest">        SELECT
+            inv_month,
+            inv_model_digest,
+            bussines_unit,
+            sum(inv_qty) as inv_qty,
+            sum(inv_KMXN) as inv_KMXN,
+            
+			
+			as inv_n1_Q,
+            
+			sum(sales_n0_Q) as sales_n0_Q,
+            sum(sales_n0_KMXN) as sales_n0_KMXN,
+            sum(sales_n1_Q) as sales_n1_Q,
+            sum(sales_n1_KMXN) as sales_n1_KMXN,
+            sum(sales_n2_Q) as sales_n2_Q,
+            sum(sales_n2_KMXN) as sales_n2_KMXN,
+            sum(sales_n3_Q) as sales_n3_Q,
+            sum(sales_n3_KMXN) as sales_n3_KMXN,
+            sum(sales_n4_Q) as sales_n4_Q,
+            sum(sales_n4_KMXN) as sales_n4_KMXN,
+            sum(sales_n5_Q) as sales_n5_Q,
+            sum(sales_n5_KMXN) as sales_n5_KMXN,
+            sum(sales_n6_Q) as sales_n6_Q,
+            sum(sales_n6_KMXN) as sales_n6_KMXN,
+            sum(sales_n7_Q) as sales_n7_Q,
+            sum(sales_n7_KMXN) as sales_n7_KMXN,
+            sum(sales_n8_Q) as sales_n8_Q,
+            sum(sales_n8_KMXN) as sales_n8_KMXN,
+            sum(sales_n9_Q) as sales_n9_Q,
+            sum(sales_n9_KMXN) as sales_n9_KMXN,
+            sum(sales_n10_Q) as sales_n10_Q,
+            sum(sales_n10_KMXN) as sales_n10_KMXN,
+            sum(sales_n11_Q) as sales_n11_Q,
+            sum(sales_n11_KMXN) as sales_n11_KMXN,
+            sum(sales_n12_Q) as sales_n12_Q,
+            sum(sales_n12_KMXN) as sales_n12_KMXN,
+            sum(sales_n12_Q) as sales_n12_Q,
+            sum(sales_n12_KMXN) as sales_n12_KMXN
+
+        FROM
+            t_guilty_list_actage where inv_age &gt; 90 group by inv_month, inv_model_digest
+</sql><sql name="t_guilty_list_actage_insert"> 
+        insert into t_guilty_list_actage
+        SELECT
+            t_guilty_base.inv_month,
+            t_guilty_base.inv_model,
+            CASE
+                when inv_model_digest is not null then inv_model_digest
+                else t_guilty_base.inv_model
+            END as inv_model_digest,
+            business_unit,
+            t_guilty_base.inv_age,
+            t_guilty_base.inv_qty,
+            in1.inv_qty as inv_n1_Q,
+            inv_KMXN,
+            inv_MYEN,
+            sales_n0_Q,
+            sales_n0_KMXN,
+            sales_n1_Q,
+            sales_n1_KMXN,
+            sales_n2_Q,
+            sales_n2_KMXN,
+            sales_n3_Q,
+            sales_n3_KMXN,
+            sales_n4_Q,
+            sales_n4_KMXN,
+            sales_n5_Q,
+            sales_n5_KMXN,
+            sales_n6_Q,
+            sales_n6_KMXN,
+            sales_n7_Q,
+            sales_n7_KMXN,
+            sales_n8_Q,
+            sales_n8_KMXN,
+            sales_n9_Q,
+            sales_n9_KMXN,
+            sales_n10_Q,
+            sales_n10_KMXN,
+            sales_n11_Q,
+            sales_n11_KMXN,
+            sales_n12_Q,
+            sales_n12_KMXN
+        FROM
+            t_guilty_base
+            left OUTER JOIN t_digest_actage on t_guilty_base.inv_model = t_digest_actage.inv_model
+            and t_guilty_base.inv_month = t_digest_actage.inv_month
+            
+            left outer join
+            t_inv in1
+            on datetime(t_guilty_base.inv_month, '-1 months') = in1.inv_month and 
+            t_guilty_base.inv_model = in1.inv_model and t_guilty_base.inv_age = in1.inv_age
+
+</sql><sql name="SQL 7">        insert into t_guilty_list_newage
+        SELECT
             inv_month,
             inv_model,
-            CASE
-				when t_guilty_base.inv_month = t_other_newage.inv_month and t_guilty_base.inv_model = t_other_newage.inv_model THEN
-				t_other_newage.inv_model_digest
-            END as inv_model_digest,
-			business_unit,
-            inv_age,
-            inv_qty,
-            inv_KMXN,
-            inv_MYEN,
-            sales_n0_Q,
-            sales_n0_KMXN,
-            sales_n1_Q,
-            sales_n1_KMXN,
-            sales_n2_Q,
-            sales_n2_KMXN,
-            sales_n3_Q,
-            sales_n3_KMXN,
-            sales_n4_Q,
-            sales_n4_KMXN,
-            sales_n5_Q,
-            sales_n5_KMXN,
-            sales_n6_Q,
-            sales_n6_KMXN,
-            sales_n7_Q,
-            sales_n7_KMXN,
-            sales_n8_Q,
-            sales_n8_KMXN,
-            sales_n9_Q,
-            sales_n9_KMXN,
-            sales_n10_Q,
-            sales_n10_KMXN,
-            sales_n11_Q,
-            sales_n11_KMXN,
-            sales_n12_Q,
-            sales_n12_KMXN
-
-        FROM t_guilty_base
-</sql><current_tab id="2"/></tab_sql></sqlb_project>
+            inv_model as inv_model_digest,
+            business_unit,
+            inv_age_mod,
+            sum(inv_qty) as inv_qty,
+            sum(inv_KMXN) as inv_KMXN,
+            sum(inv_MYEN) as inv_MYEN,
+            sum(sales_n0_Q) as sales_n0_Q,
+            sum(sales_n0_KMXN) as sales_n0_KMXN,
+            sum(sales_n1_Q) as sales_n1_Q,
+            sum(sales_n1_KMXN) as sales_n1_KMXN,
+            sum(sales_n2_Q) as sales_n2_Q,
+            sum(sales_n2_KMXN) as sales_n2_KMXN,
+            sum(sales_n3_Q) as sales_n3_Q,
+            sum(sales_n3_KMXN) as sales_n3_KMXN,
+            sum(sales_n4_Q) as sales_n4_Q,
+            sum(sales_n4_KMXN) as sales_n4_KMXN,
+            sum(sales_n5_Q) as sales_n5_Q,
+            sum(sales_n5_KMXN) as sales_n5_KMXN,
+            sum(sales_n6_Q) as sales_n6_Q,
+            sum(sales_n6_KMXN) as sales_n6_KMXN,
+            sum(sales_n7_Q) as sales_n7_Q,
+            sum(sales_n7_KMXN) as sales_n7_KMXN,
+            sum(sales_n8_Q) as sales_n8_Q,
+            sum(sales_n8_KMXN) as sales_n8_KMXN,
+            sum(sales_n9_Q) as sales_n9_Q,
+            sum(sales_n9_KMXN) as sales_n9_KMXN,
+            sum(sales_n10_Q) as sales_n10_Q,
+            sum(sales_n10_KMXN) as sales_n10_KMXN,
+            sum(sales_n11_Q) as sales_n11_Q,
+            sum(sales_n11_KMXN) as sales_n11_KMXN,
+            sum(sales_n12_Q) as sales_n12_Q,
+            sum(sales_n12_KMXN) as sales_n12_KMXN
+        FROM
+            t_guilty_base group by inv_month, inv_model, inv_model_digest, business_unit, inv_age_mod
+</sql><sql name="SQL 8">        update t_guilty_list_newage
+            SET inv_model_digest = (
+				SELECT
+				t_digest_newage.inv_model_digest
+                FROM t_digest_newage WHERE t_guilty_list_newage.inv_month = t_digest_newage.inv_month
+                and t_guilty_list_newage.inv_model = t_digest_newage.inv_model)
+            WHERE EXISTS (select * from t_digest_newage WHERE t_guilty_list_newage.inv_month = t_digest_newage.inv_month
+                and t_guilty_list_newage.inv_model = t_digest_newage.inv_model)
+ </sql><current_tab id="6"/></tab_sql></sqlb_project>
