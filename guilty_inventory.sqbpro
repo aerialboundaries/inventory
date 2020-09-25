@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/void/AnacondaProjects/inventory/guilty_inventory.sqlite3" readonly="0" foreign_keys="" case_sensitive_like="" temp_store="" wal_autocheckpoint="" synchronous=""/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="6622"/><column_width id="4" width="0"/></tab_structure><tab_browse><current_table name="0,0:"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="t_guilty_digest_actage">insert into t_guilty_digest_actage
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/mtakatani/AnacondaProjects/inventory/guilty_inventory.sqlite3" readonly="0" foreign_keys="" case_sensitive_like="" temp_store="" wal_autocheckpoint="" synchronous=""/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="6622"/><column_width id="4" width="0"/></tab_structure><tab_browse><current_table name="0,0:"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="t_guilty_digest_actage">insert into t_guilty_digest_actage
 SELECT
     tda.inv_month,
     tda.inv_model_digest,
@@ -86,30 +86,7 @@ where
 group by
     tdn.inv_month,
     tdn.inv_model_digest,
-    tdn.business_unit</sql><sql name="bs_act">select * from t_guilty_list_actage where inv_month between '2020-03-01 00:00:00' and '2020-08-01 00:00:00'</sql><sql name="bs_new">select * from t_guilty_list_newage where inv_month between '2020-03-01 00:00:00' and '2020-08-01 00:00:00'</sql><sql name="admin_act">select * from t_guilty_digest_actage where inv_month = '2020-08-01 00:00:00'</sql><sql name="admin_new">select * from t_guilty_digest_newage where inv_month = '2020-08-01 00:00:00'</sql><sql name="test">        SELECT
-            tda.inv_month,
-            tda.inv_model_digest,
-            tda.business_unit,
-            sum(inv_qty) as inv_qty,
-            sum(inv_KMXN) as inv_KMXN,
-            sum(inv_qty) as inv_n1_Q,
-            
-            sum(sn0.sales_qty) as sales_n0_Q,
-            sum(sn0.sales_amt) / 1000 as sales_n0_KMXN
-
-        FROM
-            t_digest_actage tda
-            left outer join t_guilty_inv_sum_actage tg on tda.inv_month = tg.g_month
-            and tda.inv_model = tg.inv_model
-            left outer join t_sales sn0 on tda.inv_month = sn0.sales_month
-            and tda.inv_model = sn0.sales_model
-        where
-            tg.inv_age &gt; 90 and tda.inv_model_digest = 'MX312NT'
-        group by
-            tda.inv_month,
-            tda.inv_model_digest,
-            tda.business_unit
-</sql><sql name="SQL 9">SELECT
+    tdn.business_unit</sql><sql name="bs_act">select * from t_guilty_list_actage where inv_month between '2020-03-01 00:00:00' and '2020-08-01 00:00:00'</sql><sql name="bs_new">select * from t_guilty_list_newage where inv_month between '2020-03-01 00:00:00' and '2020-08-01 00:00:00'</sql><sql name="admin_act">select * from t_guilty_digest_actage where inv_month = '2020-08-01 00:00:00'</sql><sql name="admin_new">select * from t_guilty_digest_newage where inv_month = '2020-08-01 00:00:00'</sql><sql name="test">select * from t_purchase</sql><sql name="SQL 9">SELECT
     tdn.inv_month,
     tdn.inv_model_digest,
     tdn.business_unit,
@@ -177,4 +154,4 @@ where
 group by
     tdn.inv_month,
     tdn.inv_model_digest,
-    tdn.business_unit</sql><current_tab id="2"/></tab_sql></sqlb_project>
+    tdn.business_unit</sql><current_tab id="6"/></tab_sql></sqlb_project>
